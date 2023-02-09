@@ -16,7 +16,7 @@ class ContactController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
-    { 
+    {
         return view('/user/ocorrencia');
     }
 
@@ -36,7 +36,7 @@ class ContactController extends Controller
 
         if ($this->isOnline()) {
             $mail_data = [
-                'recipient' => 'matheusborges123567@gmail.com',
+                'recipient' => 'tcc.ds3b@gmail.com',
                 'data' => $request->data,
                 'nome' => $request->nome,
                 'ocorrencia' => $request->ocorrencia
@@ -63,7 +63,7 @@ class ContactController extends Controller
             return false;
 
         }
-        
+
     }
 
 }
