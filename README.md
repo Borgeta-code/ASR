@@ -6,8 +6,7 @@ Este projeto tem como objetivo resolver um dos maiores problemas encontrados nas
 
 ## ⚡️ Demonstração:
 
-<video src="https://user-images.githubusercontent.com/107590628/222331037-239deb1d-c8de-44be-9077-8719f2cc95d9.mp4
-"></video>
+<video src="https://user-images.githubusercontent.com/107590628/222331037-239deb1d-c8de-44be-9077-8719f2cc95d9.mp4"></video>
 
 ## ❓ Justificativa:
 
